@@ -237,6 +237,9 @@ const numList = numArray [3][0]
 
 console.log('Exercise 13 result:', numList);
 
+
+
+
   
     
 
