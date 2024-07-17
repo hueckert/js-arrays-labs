@@ -233,6 +233,8 @@ const numArrays = [
 	[7, 81, 90]
 ];
 
+const numList = numArray [3][0]
+
 console.log('Exercise 13 result:', numList);
 
   
